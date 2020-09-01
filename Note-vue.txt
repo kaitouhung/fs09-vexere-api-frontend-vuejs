@@ -1,0 +1,34 @@
+============ Buổi 1 =============
+* Component
+* Data-binding
+    - Oneway: text, attribute, event
+    - Two-way: v-model
+
+============ Buổi 2 =============
+* Computed: cache lại dữ liệu. Nếu dữ k thay đổi thì computed k chạy
+* Methods: k cache dữ liệu
+* Watch: theo dõi dữ liệu
+* Directive
+
+============ Buổi 3 =============
+* Booking Bus
+* Form validation
+
+============ Buổi 4 =============
+* Lifecycle
+* Vuex
+* Routing
+
+============ Buổi 5 =============
+* Routing (tt)
+* HomeTemplate
+    - stations
+    - detail station
+* Auth
+    - Login
+
+============ Buổi 6 =============
+* Auth
+    - Login
+* Station Page Admin
+    - Delete
